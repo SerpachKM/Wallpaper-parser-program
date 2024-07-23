@@ -1,0 +1,10 @@
+yandex_point = []
+screen_width = []
+screen_height = []
+solution_images_link_ya = []
+url_images_ya = []
+number_images = []
+text = []
+folder_name = []
+number_of_downloaded_photos = []
+url = 'https://ya.ru/images/search?from=tabbar&text='
